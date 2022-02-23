@@ -32,7 +32,7 @@ Skill(id, name)
  
 1.Скачать приложение
 
-2.Перейти в репозиторий по ссылке https://github.com/554455/JDBCApplication
+2.Перейти в репозиторий по ссылке https://github.com/554455/HibernateCRUDApplication
 
 3.Кликнуть зеленую кнопку "Clone or Download" в правой верхней части страницы.
 
